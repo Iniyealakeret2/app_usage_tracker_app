@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#7c4dff</color>
+    <color name="dark">#3f1dcb</color>
+    <color name="accent">#f0f0f0</color>
+    <color name="light">#b47cff</color>
+    <color name="immersive_background">#88000000</color>
+    <color name="white">#ffffffff</color>
+    <!-- Action Bar -->
+    <color name="actionbar_title">#7c4dff</color>
+    <!-- Main Screen -->
+    <color name="main_next_bg">#ff476fb2</color>
+    <color name="main_next_text">#ffeeeeee</color>
+</resources>

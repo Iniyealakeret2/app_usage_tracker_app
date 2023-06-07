@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">H-Our</string>
+    <string name="start_subtitle">Time flies. Treasure your hours.</string>
+    <string name="start_startbutton">Start</string>
+    <string name="enable_doneBtn">Done</string>
+    <string name="enable_allowbutton_title">Allow \"Usage Access\"</string>
+    <string name="enable_allowbutton_hint">It is used to monitor your app usage</string>
+    <string name="enable_done_title">Great!</string>
+    <string name="enable_done_hint">You can now monitor your app usage</string>
+    <string name="enable_title">Enable H-Our</string>
+    <string name="setting_strictmode_title">Strict Mode</string>
+    <string name="setting_strictmode_content">You are not allowed to use apps which exceed usage limit in strict mode</string>
+</resources>
